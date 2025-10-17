@@ -1,7 +1,3 @@
-<p align="left">
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="Harshad57" data-description="Support me on Buy me a coffee!" data-message="Thanks for visiting !" data-color="#FF5F5F" data-position="Right" data-x_margin="18" data-y_margin="18">
-</script>
-</p>
 <p align="right">   
 <img src="https://komarev.com/ghpvc/?username=harshad57&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="harshad57" />
 </p>
